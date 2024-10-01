@@ -1,7 +1,7 @@
 {
     "name":"IwacchiLab Packages",
     "id":"com.iwacchi.vcc-listing",
-    "url":"https://iwacchik.github.io/VPM-Test/index.json",
+    "url":"https://iwacchik.github.io/IwacchiLabVCCListing/index.json",
     "author":{
         "email":"iwacchi.kz@gmail.com",
         "name":"Iwacchi",
@@ -9,12 +9,11 @@
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"https://github.com/iwacchik/VPM-Test",
+        "url":"https://github.com/iwacchik/IwacchiLabVCCListing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "iwacchik/VRCPackageTemplate",
         "chiugame/udon-task",
         "CyanLaser/CyanPlayerObjectPool"
     ],
