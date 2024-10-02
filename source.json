@@ -14,8 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "iwacchik/template-package",
-        "iwacchik/PackageTest",
+        "iwacchik/VRCPackageTemplate",
         "chiugame/udon-task",
         "CyanLaser/CyanPlayerObjectPool"
     ],
