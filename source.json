@@ -15,7 +15,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "iwacchik/VRCPackageTemplate",
-        "iwacchik/AvatarPackageTest"
+        "iwacchik/AvatarPackageTest",
+        "iwacchik/CommonPackageTest"
     ],
     "packages":[
     ]
