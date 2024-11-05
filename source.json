@@ -14,9 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "iwacchik/VRCPackageTemplate",
-        "iwacchik/AvatarPackageTest",
-        "iwacchik/CommonPackageTest"
+        "iwacchik/VRCWorldCoreModules"
     ],
     "packages":[
     ]
