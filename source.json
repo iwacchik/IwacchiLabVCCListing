@@ -3,8 +3,8 @@
     "id":"com.iwacchilab.vcc-listing",
     "url":"https://iwacchik.github.io/IwacchiLabVCCListing/index.json",
     "author":{
-        "email":"iwacchi.kz@gmail.com",
-        "name":"Iwacchi",
+        "email":"iwacchi.tensai@gmail.com",
+        "name":"iwacchi",
         "url":"https://x.com/IwacchiK"
     },
     "description":"Example listing of VRChat packages",
@@ -13,7 +13,9 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[],
+    "githubRepos":[
+        "iwacchik/VRCWorldCoreModules"
+    ],
     "packages":[
     ]
 }
